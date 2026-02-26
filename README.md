@@ -41,7 +41,6 @@ https://github.com/user-attachments/assets/f198f73f-40f9-42dc-8c61-0d9510dcfae8
 Here's a video / GIF that demos all of the app's implemented features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
-[⬇ Download Video](http://i.imgur.com/link/to/your/gif/file.gif)
 
 GIF created with **your chosen GIF tool**
 
